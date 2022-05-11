@@ -1,0 +1,5 @@
+D:/multicpp/build-Paint-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/Paint.dir
+D:/multicpp/build-Paint-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/multicpp/build-Paint-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/multicpp/build-Paint-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/Paint_autogen_timestamp_deps.dir
+D:/multicpp/build-Paint-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/Paint_autogen.dir
