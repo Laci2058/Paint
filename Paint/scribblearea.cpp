@@ -133,7 +133,6 @@ void ScribbleArea::resizeImage(QImage *image, const QSize &newSize)
 }
 void ScribbleArea::print()
 {
-#if QT_CONFIG(printdialog)
 
     QPrinter printer(QPrinter::HighResolution);
 
@@ -147,5 +146,4 @@ void ScribbleArea::print()
         painter.setWindow(image.rect());
         painter.drawImage(0, 0, image);
     }
-#endif
 }

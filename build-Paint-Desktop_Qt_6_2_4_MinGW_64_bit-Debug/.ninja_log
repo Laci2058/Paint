@@ -1,0 +1,21 @@
+# ninja log v5
+10	1015	6740047493599805	Paint_autogen/timestamp	f9a92fb10e9172a1
+6	780	6740077037164882	build.ninja	465c3b44768e7775
+10	1015	6740047493599805	D:/multicpp/build-Paint-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Paint_autogen/timestamp	f9a92fb10e9172a1
+10	1015	6740047493599805	Paint_autogen/mocs_compilation.cpp	f9a92fb10e9172a1
+1026	14994	6740047635057949	CMakeFiles/Paint.dir/scribblearea.cpp.obj	91c678c948b8f14a
+1016	4759	6740047532672514	CMakeFiles/Paint.dir/main.cpp.obj	f9d6a92040632bd6
+1023	15321	6740047638336769	CMakeFiles/Paint.dir/mainwindow.cpp.obj	88023fb50935b727
+10	1015	6740047493599805	D:/multicpp/build-Paint-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Paint_autogen/mocs_compilation.cpp	f9a92fb10e9172a1
+1019	4555	6740047530563023	CMakeFiles/Paint.dir/Paint_autogen/mocs_compilation.cpp.obj	d4e7b9736021d24f
+15322	16047	6740047645553309	Paint.exe	eda8d52d841d012a
+3	679	6740077037164882	build.ninja	465c3b44768e7775
+12	1114	6740077047377571	Paint_autogen/timestamp	f9a92fb10e9172a1
+12	1114	6740077047377571	Paint_autogen/mocs_compilation.cpp	f9a92fb10e9172a1
+12	1114	6740077047377571	D:/multicpp/build-Paint-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Paint_autogen/timestamp	f9a92fb10e9172a1
+12	1114	6740077047377571	D:/multicpp/build-Paint-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Paint_autogen/mocs_compilation.cpp	f9a92fb10e9172a1
+1114	5407	6740077092028193	CMakeFiles/Paint.dir/Paint_autogen/mocs_compilation.cpp.obj	d4e7b9736021d24f
+1119	5938	6740077097413790	CMakeFiles/Paint.dir/main.cpp.obj	f9d6a92040632bd6
+1121	14876	6740077186774861	CMakeFiles/Paint.dir/scribblearea.cpp.obj	91c678c948b8f14a
+1116	15325	6740077191323385	CMakeFiles/Paint.dir/mainwindow.cpp.obj	88023fb50935b727
+15325	15804	6740077196030127	Paint.exe	eda8d52d841d012a
