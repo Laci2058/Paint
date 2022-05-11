@@ -42,4 +42,4 @@ private slots:
     void penColor();
     void penWidth();
 };
-#endif // MAINWINDOW_H
+#endif
